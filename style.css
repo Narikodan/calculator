@@ -131,3 +131,9 @@
     font-size: 20px;
     border-radius: 25%;
 }
+#footer {
+    position: absolute;
+    top: 530px;
+    left: 355px;
+    font-style: italic;
+}

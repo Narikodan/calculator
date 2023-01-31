@@ -126,6 +126,11 @@
     font-size: 20px;
     border-radius: 25%;
 }
+.operator1 {
+    background-color: rgb(238, 117, 18);
+    font-size: 20px;
+    border-radius: 25%;
+}
 #clrbutton {
     background-color: rgb(255, 17, 0);
     font-size: 20px;
